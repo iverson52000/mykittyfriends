@@ -1,2 +1,4 @@
 # mykittyfriends
-mykittyfriends website
+mykittyfriends website built with React.js
+
+Albert Hsu 2019

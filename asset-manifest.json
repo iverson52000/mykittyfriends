@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mykittyfriends/static/css/main.26244fbb.chunk.css",
+    "main.js": "/mykittyfriends/static/js/main.138b61b1.chunk.js",
+    "main.js.map": "/mykittyfriends/static/js/main.138b61b1.chunk.js.map",
+    "runtime-main.js": "/mykittyfriends/static/js/runtime-main.3cdced70.js",
+    "runtime-main.js.map": "/mykittyfriends/static/js/runtime-main.3cdced70.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/mykittyfriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.8cf85a55.chunk.js": "/mykittyfriends/static/js/2.8cf85a55.chunk.js",
+    "static/js/2.8cf85a55.chunk.js.map": "/mykittyfriends/static/js/2.8cf85a55.chunk.js.map",
+    "index.html": "/mykittyfriends/index.html",
+    "precache-manifest.eeec37772d75460da776158ba412db6b.js": "/mykittyfriends/precache-manifest.eeec37772d75460da776158ba412db6b.js",
+    "service-worker.js": "/mykittyfriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/mykittyfriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.26244fbb.chunk.css.map": "/mykittyfriends/static/css/main.26244fbb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cdced70.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.8cf85a55.chunk.js",
+    "static/css/main.26244fbb.chunk.css",
+    "static/js/main.138b61b1.chunk.js"
+  ]
+}

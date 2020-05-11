@@ -3,6 +3,8 @@ import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
 import ErrorBoundary from '../components/ErrorBoundary';
+import {robots} from '../robots';
+
 import './App.css';
 
 
@@ -10,17 +12,17 @@ class App extends Component {
   constructor(){
     super()
     this.state = {
-      robots: [], 
+      robots: robots, 
       searchfield: ''
     }
     this.onSearchChange = this.onSearchChange.bind(this);
   }
 
-  componentDidMount(){
-    fetch('https://jsonplaceholder.typicode.com/users')
-      .then(res => res.json())
-      .then(users => {this.setState({robots: users})});
-  }
+  // componentDidMount(){
+  //   fetch('https://jsonplaceholder.typicode.com/users')
+  //     .then(res => res.json())
+  //     .then(users => {this.setState({robots: users})});
+  // }
 
   onSearchChange(event){
     this.setState({searchfield: event.target.value});
